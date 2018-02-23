@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Customer xmlns:tns="http://www.example.org/Customer"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:ns2="http://www.example.org/Address"
+	xsi:schemaLocation="http://www.example.org/Customer Customer.xsd ">
+	<tns:customerid>10</tns:customerid>
+	<tns:name>"sai"</tns:name>
+	<tns:dateofBirth>10-10-2017</tns:dateofBirth>
+	<tns:annualSalary>2569</tns:annualSalary>
+	<tns:address> <ns2:streetNo>10</ns2:streetNo>
+        <ns2:streetName>"lovedr"</ns2:streetName>
+        <ns2:zipCode>45</ns2:zipCode>
+        <ns2:phonenumber>145622</ns2:phonenumber></tns:address>
+	<tns:paymentMethods>c</tns:paymentMethods>
+</tns:Customer>

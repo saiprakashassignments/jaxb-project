@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Address xmlns:tns="http://www.example.org/Address" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Address Address.xsd ">
+  <tns:streetNo>0</tns:streetNo>
+  <tns:streetName>tns:streetName</tns:streetName>
+  <tns:zipCode>0</tns:zipCode>
+  <tns:phonenumber>tns:phonenumber</tns:phonenumber>
+</tns:Address>

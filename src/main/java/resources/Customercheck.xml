@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:customerType xmlns="http://www.example.org/Customer" xmlns:ns2="http://www.example.org/Address" xmlns:ns3="http://www.example.org/PaymentMethod">
+    <customerid>1</customerid>
+    <name>sai</name>
+    <dateofBirth>10-10-2017</dateofBirth>
+    <annualSalary>458</annualSalary>
+    <address>
+        <ns2:streetNo>10</ns2:streetNo>
+        <ns2:streetName>lovedr</ns2:streetName>
+        <ns2:zipCode>45</ns2:zipCode>
+        <ns2:phonenumber>145622</ns2:phonenumber>
+    </address>
+    <paymentMethods>creditcard</paymentMethods>
+</ns3:customerType>
